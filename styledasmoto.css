@@ -1,0 +1,46 @@
+.main-title{
+  font-family: : Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("./Resources/Images/pattern.webp");
+}
+
+.title-brushes{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: #00fa9a;
+}
+
+.title-frames{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: #f08080;
+}
+
+.title-paints{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: #87ceeb ;
+}
+
+.img-container{
+  text-align: left;
+}
+
+.article-title, .article-content{
+  font-family: Helvetica;
+}
+
+.pop-text{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
